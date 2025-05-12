@@ -6,7 +6,7 @@ This repository contains all the custom PCB designs created for my RoboCup Junio
 
 ## 🧠 What is this?
 
-In RCJ 2024, me and 3 other students decided to join the **RCJ Soccer Open**. I took the task of designing the electrical system. I designed and assembled two custom-made dual-layer printed circuit boards for our robot.
+In 2024, me and 3 other students decided to join the **RCJ 2024 Soccer Open**. I took the task of designing the electrical system. I designed and assembled two custom-made dual-layer printed circuit boards for our robot.
 
 ---
 
