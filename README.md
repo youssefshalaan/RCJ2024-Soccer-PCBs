@@ -15,7 +15,7 @@ In 2024, me and 3 other students decided to join the **RCJ 2024 Soccer Open**. I
 <img src="assets/lower.png" alt="Lower PCB" align="right" width="200" style="margin-left: 15px; border-radius: 12px;">
 
 This PCB handles:
-- **Line detection** using 16 TCRT5000 IR sensors, accompanied by resistor arrays to drive the LEDs and bias the signals.
+- **Line detection** using 16 TCRT5000 IR sensors, accompanied by resistor arrays to drive the LEDs and pull-up the signals.
 - **Motor driving** using 4 VNH5019 carrier PCBs from Pololu.
 - A **40-pin dual-row IDC slot** for an interconnect ribbon that links it to the other board.
 
@@ -23,7 +23,7 @@ This PCB handles:
 
 ---
 
-## 🧠 PCB 2 (Upper PCB)
+## 🔧 PCB 2 (Upper PCB)
 
 <img src="assets/upper.png" alt="Lower PCB" align="right" width="200" style="margin-left: 15px; border-radius: 12px;">
 
