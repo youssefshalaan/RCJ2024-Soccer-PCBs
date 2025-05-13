@@ -12,14 +12,20 @@ In 2024, me and 3 other students decided to join the **RCJ 2024 Soccer Open**. I
 
 ## 🔧 PCB 1 (Lower PCB) 
 
+<img src="assets/lower.png" alt="Lower PCB" align="right" width="200" style="margin-left: 15px; border-radius: 12px;">
+
 This PCB handles:
 - **Line detection** using 16 TCRT5000 IR sensors, accompanied by resistor arrays to drive the LEDs and bias the signals.
 - **Motor driving** using 4 VNH5019 carrier PCBs from Pololu.
 - A **40-pin dual-row IDC slot** for an interconnect ribbon that links it to the other board.
 
+<div style="clear: right;"></div>
+
 ---
 
 ## 🧠 PCB 2 (Upper PCB)
+
+<img src="assets/upper.png" alt="Lower PCB" align="right" width="200" style="margin-left: 15px; border-radius: 12px;">
 
 This PCB handles the robot control system and includes:
 - An **Arduino Mega2560 Pro** embedded into the PCB.
@@ -28,6 +34,8 @@ This PCB handles the robot control system and includes:
 - **UART communication** with an OpenMV Cam H7+.
 - **Bluetooth communication** via an HC-05 module.
 - An **off-the-shelf ESC (BlueRobotics Basic ESC R3)** due to manufacturing constraints that prevented us from designing our own.
+
+<div style="clear: right;"></div>
 
 ---
 
